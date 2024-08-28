@@ -1,4 +1,5 @@
-**Blog Generation App**
+****Blog Generation App****
+
 This project is a Blog Generation App built using the **Llama 2 model**, designed to generate customized blog content. The app provides a user-friendly interface via **Streamlit**, enabling users to create blogs tailored to specific audiences.
 
 **Features**
